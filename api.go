@@ -1,4 +1,4 @@
-package main
+package ludumDareAPI
 
 import (
 	"encoding/json"
